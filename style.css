@@ -51,7 +51,7 @@
       
   body {
     position: absolute;
-    background-image: url('world11.jpg');
+    background-image: url('world4.JPG');
   }
 
   .name {
@@ -135,7 +135,7 @@
     bottom: 0vw;
     right: 5vw;
     overflow: auto;
-    background-color: rgb(168, 158, 226);
+    background-color: rgb(174, 166, 221);
     border: 0.5vw solid rgba(31, 0, 104, 0.934);
     border-radius: 5vw 1vw 1vw 5vw ;
     padding: 3.4vw;
@@ -154,7 +154,7 @@
     bottom: 0px;
     right: 5vw;
     overflow: auto;
-    background-color: rgb(168, 158, 226);
+    background-color: rgb(174, 166, 221);
     border: 0.5vw solid rgba(31, 0, 104, 0.934);
     border-radius: 5vw 1vw 1vw 1vw ;
     padding: 3.4vw;
