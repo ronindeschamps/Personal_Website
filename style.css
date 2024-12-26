@@ -2,26 +2,26 @@
   
   @font-face {
     font-family: brogand;
-    src: url("brogand.woff");
+    src: url("fonts/brogand.woff");
   }
   @font-face {
     font-family: OldGameFatty;
-    src: url("OldGameFatty.ttf");
+    src: url("fonts/Fatty.ttf");
   }
   
   @font-face {
     font-family: NC;
-    src: url("NightmareCodehack.oft");
+    src: url("fonts/NightmareCodehack.oft");
   }
 
   @font-face {
     font-family: gaban;
-    src: url("gaban-outline-regular-FFP.ttf");
+    src: url("fonts/gaban-outline-regular-FFP.ttf");
   }
 
   @font-face {
     font-family: gaban;
-    src: url("Vacaciones-font-ffp-defharo.ttf");
+    src: url("fonts/Vacaciones-font-ffp-defharo.ttf");
   }
 
 
