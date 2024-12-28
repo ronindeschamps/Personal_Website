@@ -120,7 +120,7 @@
   }
 
   .tab.active {
-    color: rgba(255, 255, 255, 0.87);
+    color: rgb(255, 255, 255);
     background-color: rgba(121, 43, 255, 0.82);
     position: relative;
     z-index: 3;
@@ -136,7 +136,7 @@
     right: 5vw;
     overflow: auto;
     background-color: rgb(174, 166, 221);
-    border: 0.5vw solid rgba(31, 0, 104, 0.934);
+    border: 0.3vw solid rgba(31, 0, 104, 0.934);
     border-radius: 5vw 1vw 1vw 5vw ;
     padding: 3.4vw;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -155,7 +155,7 @@
     right: 5vw;
     overflow: auto;
     background-color: rgb(174, 166, 221);
-    border: 0.5vw solid rgba(31, 0, 104, 0.934);
+    border: 0.3vw solid rgba(31, 0, 104, 0.934);
     border-radius: 5vw 1vw 1vw 1vw ;
     padding: 3.4vw;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
